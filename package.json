@@ -1,4 +1,8 @@
 {
-  "name": "event-stream",
-  "version": "3.3.6"
+  "name": "vulnerNodeJS",
+  "version": "0.1.0",
+  "dependencies": {
+    "event-stream": "3.3.6",
+    "flatmap-stream": "0.1.1"
+  }
 }
